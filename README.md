@@ -1,7 +1,7 @@
 # Odev-2
 
 ## Grup Üyeleri
-- Can Beyazıt
+- Can Bayazit
 - Bilge Su Eşki
 - Murat Candan
 
