@@ -1,4 +1,4 @@
-# Task-2 - XOX -
+# Task-2 - Tic Tac Toe -
 
 ## Team Members
 - [Can Bayazit](https://github.com/canbayazit)
