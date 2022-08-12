@@ -8,8 +8,8 @@
 - [Murat Candan](https://github.com/muratcandan)
 
 ## Result
-![gif](/public/XOX.gif)
 - [Start Playing](https://cbm-tictocto.netlify.app/)
+
 ## Contents
 
 - [Figma and css Example](https://www.figma.com/file/9WxsY4qgl7Elca9cv9Y5z6/Untitled?node-id=0%3A1)
