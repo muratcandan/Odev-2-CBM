@@ -1,0 +1,46 @@
+.board{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.row button{
+    
+    width: 80px;
+    height: 80px;
+    background: #FFFFFF ;
+    border: 10px solid #000000;
+    border-radius: 10px;
+    margin:10px;
+    
+}
+
+.row button:hover{
+    background-color: #adb5bd ;
+}
+.square p{
+    position: absolute;
+    width: 41px;
+    height: 94px;
+    
+    font-family: 'Finger Paint';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 64px;
+    line-height: 94px;
+    margin-top: -48px;
+    
+    
+    color: #FF0505;
+}
+
+.text p{
+    font-family: 'Finger Paint';
+font-style: normal;
+font-weight: 400;
+font-size: 44px;
+line-height: 65px;
+color: #0026ED;
+width: 254px;
+height: 65px;
+}
