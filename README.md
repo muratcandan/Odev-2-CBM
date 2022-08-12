@@ -5,11 +5,11 @@
 - Bilge Su Eşki
 - Murat Candan
 
-Pakedi yüklemek için:
+##Pakedi yüklemek için:
 
 **npm install**
 
-Projeyi Başlatmak için:
+##Projeyi Başlatmak için:
 
 **npm start**
 
