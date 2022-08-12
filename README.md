@@ -1,8 +1,9 @@
 # Odev-2
 
 ## Grup Üyeleri
-- [Ad] [Soyad]
-- [Ad] [Soyad]
+- Can Beyazıt
+- Bilge Su Eşki
+- Murat Candan
 
 ## İçerik
 
