@@ -16,12 +16,13 @@
 
 
 
-## To install and run:
+## Images:
 
-```
-npm install
-```
 
-```
-npm start
-```
+![Gameplay](https://github.com/muratcandan/tic_toc_toe_React/blob/main/public/gameplay.png)
+
+
+![Winning X](https://github.com/muratcandan/tic_toc_toe_React/blob/main/public/winningx.png)
+
+
+![Winning O](https://github.com/muratcandan/tic_toc_toe_React/blob/main/public/winningo.png)
