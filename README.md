@@ -5,7 +5,7 @@
 - [Bilgesu Eşki](https://github.com/bilgesueski)
 - [Murat Candan](https://github.com/muratcandan)
 
-## Result
+## Play
 - [Start Playing](https://cbm-tictocto.netlify.app/)
 
 ## Contents
